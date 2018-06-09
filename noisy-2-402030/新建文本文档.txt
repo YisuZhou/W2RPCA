@@ -1,0 +1,16 @@
+giraffe1.jpg :
+The initial value of PSNR = 19.0390, SSIM = 0.2187 
+grapes1.jpg :
+The initial value of PSNR = 19.8474, SSIM = 0.2020 
+grasshopper1.jpg :
+The initial value of PSNR = 19.3272, SSIM = 0.2787 
+kodim23.jpg :
+The initial value of PSNR = 19.1995, SSIM = 0.1885 
+ostrich2.jpg :
+The initial value of PSNR = 19.3077, SSIM = 0.2931 
+stained-glass2.jpg :
+The initial value of PSNR = 19.1793, SSIM = 0.3263 
+swan1.jpg :
+The initial value of PSNR = 19.5612, SSIM = 0.2296 
+zebra4.jpg :
+The initial value of PSNR = 19.2978, SSIM = 0.4488 
